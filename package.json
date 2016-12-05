@@ -1,0 +1,22 @@
+{
+  "name": "clear-dictionary",
+  "version": "0.1.0",
+  "description": "If you're like me, you often add a misspelled word to computer's dictionary by mistake. Fix it easily now.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agconti/clear-dictionary.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agconti/clear-dictionary/issues"
+  },
+  "homepage": "https://github.com/agconti/clear-dictionary#readme",
+  "dependencies": {
+    "username": "^2.2.2"
+  }
+}
